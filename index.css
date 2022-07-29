@@ -15,7 +15,7 @@ margin-bottom: 40px;
 div.container{
 width: 900px;
 height: 610px;
-margin:35px auto;
+margin: auto;
 font-family: 'Raleway', sans-serif;
 }
 div.main{
@@ -24,7 +24,7 @@ padding: 10px 50px 25px;
 border: 2px solid gray;
 border-radius: 10px;
 font-family: raleway;
-float:left;
+float:center;
 margin-top:50px;
 }
 input[type=text],input[type=password]{
@@ -63,9 +63,9 @@ color: black;
 }
 input[type=button]{
 font-size: 16px;
-background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
-border: 1px solid #e5a900;
-color: #4E4D4B;
+background: linear-gradient(#2c97d5 5%, #4399cb 100%);
+border: 2px solid #000000;
+color: #ffffff;
 font-weight: bold;
 cursor: pointer;
 width: 100%;
